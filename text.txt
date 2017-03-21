@@ -1,1 +1,2 @@
 This is my test document.
+Today is sunny day.
