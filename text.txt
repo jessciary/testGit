@@ -2,3 +2,4 @@ This is my test document.
 Today is sunny day.
 At noon I ate eggs and chicken feet,fruit ate the strawberries.
 fixed a bug
+fixed a bug again.
